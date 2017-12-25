@@ -1,0 +1,30 @@
+{
+  "type": "CREATE",
+  "books": [
+    {
+      "id": 1,
+      "name": "cosmos",
+      "author": "cal"
+    },
+    {
+      "id": 2,
+      "name": "The secret",
+      "author": "cal"
+    },
+    {
+      "id": 3,
+      "name": "Thinking in java",
+      "author": "cal"
+    },
+    {
+      "id": 4,
+      "name": "Effective java",
+      "author": "cal"
+    },
+    {
+      "id": 5,
+      "name": "Clean code",
+      "author": "cal"
+    }
+  ]
+}
