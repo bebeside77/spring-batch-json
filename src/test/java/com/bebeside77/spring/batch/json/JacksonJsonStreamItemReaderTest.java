@@ -18,7 +18,7 @@ public class JacksonJsonStreamItemReaderTest {
 
     @Before
     public void setUp() {
-        reader = new JacksonJsonStreamItemReader<Book>();
+        reader = new JacksonJsonStreamItemReader<>();
     }
 
     @After
