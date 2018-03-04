@@ -73,3 +73,5 @@ It support only json array format.
 </bean>
 ```
 
+## Constraint
+- Minimum Java version : 1.8
